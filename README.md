@@ -11,8 +11,8 @@
 
 ### Render com IA, direto do SketchUp.
 
-Envie a cena da sua viewport e receba uma imagem fotorrealista em segundos —<br>
-sem exportar, sem print, sem prompt complicado.
+Envie a cena da sua viewport e receba uma imagem fotorrealista em segundos.<br>
+Sem exportar, sem print, sem prompt complicado.
 
 <br>
 
