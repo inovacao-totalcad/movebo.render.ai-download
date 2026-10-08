@@ -25,6 +25,7 @@ Sem exportar, sem print, sem prompt complicado.
 <img src="https://img.shields.io/github/v/release/inovacao-totalcad/movebo.render.ai-download?style=flat-square&label=vers%C3%A3o&color=0C1B33" alt="Versão">
 <img src="https://img.shields.io/badge/SketchUp-Windows%20%7C%20macOS-315AE5?style=flat-square" alt="SketchUp Windows e macOS">
 <img src="https://img.shields.io/badge/feito%20por-TotalCAD-17181A?style=flat-square" alt="Feito por TotalCAD">
+<a href="LICENSE.md"><img src="https://img.shields.io/badge/licen%C3%A7a-propriet%C3%A1ria-17181A?style=flat-square" alt="Licença proprietária"></a>
 
 <br><br>
 
@@ -93,6 +94,18 @@ instale por cima pelo Gerenciador de extensões.
 
 <br>
 
+## Direitos e uso
+
+> [!IMPORTANT]
+> **© 2026 TotalCAD. Todos os direitos reservados.** O Movebo.ai é software proprietário e **não é
+> código aberto**. Este repositório existe apenas para o download oficial do plugin.
+>
+> É permitido somente baixar e instalar o plugin para usar com uma conta Movebo.ai. É **proibido**
+> copiar, redistribuir, revender, modificar, descriptografar, fazer engenharia reversa ou usar a
+> marca e as imagens sem autorização por escrito da TotalCAD. Leia a **[licença completa](LICENSE.md)**.
+
+<br>
+
 ---
 
 <div align="center">
@@ -103,6 +116,8 @@ instale por cima pelo Gerenciador de extensões.
   Plugin oficial mantido pela <strong>TotalCAD</strong>
   &nbsp;·&nbsp;
   © 2026 TotalCAD. Todos os direitos reservados.
+  &nbsp;·&nbsp;
+  <a href="LICENSE.md">Licença</a>
 </sub>
 
 </div>
